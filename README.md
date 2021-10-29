@@ -4,7 +4,7 @@ Game Engine:
 Furkan Can TURAN
 
 Coders:
-Muhammed Fatih YILMAZ
+Muhammed Fatih YILMAZ,
 Yusuf AĞAÇ
 
 Basic Art:
