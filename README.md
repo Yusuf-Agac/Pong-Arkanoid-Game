@@ -3,7 +3,7 @@ Auhors:
 Game Engine:
 Furkan Can TURAN
 
-Coders:
+Programmer:
 Muhammed Fatih YILMAZ,
 Yusuf AĞAÇ
 
